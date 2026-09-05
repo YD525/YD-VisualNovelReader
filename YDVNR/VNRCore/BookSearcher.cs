@@ -1,6 +1,6 @@
 ﻿namespace YDVNR.VNRCore
 {
-    public class ConvertHelper
+    internal class BookSearcher
     {
     }
 }

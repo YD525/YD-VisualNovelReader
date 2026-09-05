@@ -66,8 +66,10 @@
     <Compile Include="ADO\PSQLite.cs" />
     <Compile Include="ADO\SQLSafeCodec.cs" />
     <Compile Include="UIManagement\BlockListView.cs" />
+    <Compile Include="UIManagement\BookView.cs" />
     <Compile Include="UIManagement\UIHelper.cs" />
-    <Compile Include="VNRCore\ConvertHelper.cs" />
+    <Compile Include="VNRCore\BookSearcher.cs" />
+    <Compile Include="VNRCore\PConvert.cs" />
     <Compile Include="VNR.cs" />
     <Page Include="MainGui.xaml">
       <Generator>MSBuild:Compile</Generator>
