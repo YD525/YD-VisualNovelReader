@@ -69,8 +69,10 @@
     <Compile Include="UIManagement\BookView.cs" />
     <Compile Include="UIManagement\UIHelper.cs" />
     <Compile Include="VNRCore\BookSearcher.cs" />
+    <Compile Include="VNRCore\OCRHelper.cs" />
     <Compile Include="VNRCore\PConvert.cs" />
     <Compile Include="VNR.cs" />
+    <Compile Include="VNRCore\PhoenixApi.cs" />
     <Page Include="MainGui.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

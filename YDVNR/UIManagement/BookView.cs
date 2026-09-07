@@ -90,7 +90,7 @@ namespace YDVNR.UIManagement
 
         public BitmapSource Source;
         public RenderThread TrdRef;
-
+        HashSet<string> Array;
         public void Render()
         {
             TrdRef.Put(this);
